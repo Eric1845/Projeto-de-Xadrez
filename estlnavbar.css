@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: verdana;
+}
+
+header{
+    background-color: darkslategrey;
+    padding: 15px;
+}
+
+.barra{
+    display: flex;
+    padding: 26px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+a{
+    text-decoration: none;
+    color:azure;
+    flex-grow: 1;
+}
+
+.lista{
+    display: flex;
+    align-items: center;
+    gap: 120px;
+    list-style: none;
+}
+
+.link{
+    font-size: 30px;
+}
+
+.link:hover{
+    color: #1d2917;
+}
+
+.imgicon{
+    width: 120px;
+    height: 120px;   
+}
+
+.iflogo{
+    height: 120px;
+}

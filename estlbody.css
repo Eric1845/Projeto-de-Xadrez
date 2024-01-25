@@ -1,0 +1,51 @@
+body{
+    background-color:#121212;
+}
+
+.texto-clube{
+    padding: 28px;
+    margin: 50px 5px 5px 5px;
+
+}
+
+.texto-clube h1{
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    color: azure;
+
+}
+.texto-clube p{
+    padding: 10px;
+    margin: 15px 5px 5px 5px;
+    color: azure;
+    font-size: 25px;
+    text-align:start;
+}
+
+.texto-site{
+    margin: 50px 5px 5px 5px;
+    padding: 28px;
+}
+
+.texto-site h1{
+    text-align: center;
+    color: azure;
+    padding: 10px;
+    margin: 5px;
+}
+
+.texto-site p{
+    text-align: start;
+    padding: 10px;
+    margin: 15px 5px 5px 5px;
+    color: azure;
+    font-size: 25px;
+}
+
+.foto{
+    padding: 16px;
+    margin: 5px;
+    flex: 30%;
+    background-color: goldenrod;
+}

@@ -1,0 +1,22 @@
+body{
+    background-color: darkslateblue;
+}
+
+.aulas {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  font-size:20px;
+}
+
+.aulas > div {
+  width: 30%; /* Define a largura de cada div para 30% da largura do contêiner pai */
+  margin: 10px; /* Adiciona uma margem entre as divs */
+  box-sizing: border-box; /* Garante que a margem não aumente a largura real da div */
+}
+
+.aulas img {
+  width: 100%; /* Faz com que a imagem ocupe 100% da largura da div pai */
+  height: auto; /* Mantém a proporção da imagem */
+  border-radius:18px;
+}
