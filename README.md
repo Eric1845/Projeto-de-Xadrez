@@ -1,2 +1,2 @@
-# Projeto-de-Xadrez
+# Projeto de Xadrez
 projeto de software
